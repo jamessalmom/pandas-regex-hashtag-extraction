@@ -1,4 +1,4 @@
-# Extração de hashtags (Maio)
+# Extração de hashtags
 
 Método pandas + regex usando `str.findall` para extrair TODAS as
 ocorrências de um padrão em cada linha (diferente de `str.extract`,
